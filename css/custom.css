@@ -1,0 +1,12 @@
+.container-fluid {
+    background-color: rgb(255, 255, 255);
+}
+
+.is-current-page {
+    color: gray;
+    transition: none;
+}
+
+.is-current-page:hover, .is-current-page:focus {
+    color: gray;
+}
