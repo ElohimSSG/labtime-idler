@@ -1,0 +1,24 @@
+[
+    {
+        "title": "Begin with this node",
+        "layer": 1,
+        "subtitle": "The first node you can afford",
+        "icon": "B",
+        "effect": {
+            "statID": 1,
+            "value": 5,
+            "operator": "%"
+        }
+    },
+    {
+        "title": "Begin with this node",
+        "layer": 2,
+        "subtitle": "The first node you can afford",
+        "icon": "2",
+        "effect": {
+            "statID": 1,
+            "value": 5,
+            "operator": "%"
+        }
+    }
+]
